@@ -1,0 +1,31 @@
+in response to some random video professor shows us of lego mind storms robot that learns how to navigate a room and find obsticles:
+sean: "What is the algorithm he uses"
+professor: "......He is using one he created himself. I do not know"
+
+In AI theory in regards to a project on making a robot that learns:
+sean: "does the robot need to learn while its moving or can we, like, train it on the computer."
+
+Sean: whats Pumping Lemma?
+Huang: yeah that's what weve been talking about all class today
+sean: what do you mean by pump
+huang: proceeds to show him everything written on the board already
+sean: oh so that's what you mean by pump
+
+Teacher: showing us boston dynamics robots
+Shaun: "Show us the big robot"
+Teacher: "uhhhhhh" *looking through the page of robots*
+Sean: "The american one!"
+teacher: *scrolling....*
+Sean: "The one that going to fight japan. The new one"
+teacher: "uhhhhh...."
+
+dude in PLT: "What do you mean by divisible?"
+whit: *proceeds to explain division*
+everyone: silence...
+
+dude in PLT: "I heard Bing got a couple of updates that made it faster"
+whit: "wut??"
+dude in PLT: "I heard Bing got a couple of updates that made it faster"
+whit: *turns to board and continues writing without saying a word*
+
+
